@@ -4,7 +4,7 @@ This is Team Iota's code submission
 
 The files used for the APK are located in SampleApk
 
-Files used to generate images and sort files are in pythong
+Files used to generate images and sort files are in python
 
 Ai models used are located in saved_model and yolo models
 
