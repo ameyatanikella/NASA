@@ -1,6 +1,6 @@
 Hello,
 
-This is Team Iota's code submission
+This is my code submission for the NASA Kibo RPC challenge
 
 The files used for the APK are located in SampleApk
 
