@@ -1,6 +1,6 @@
 Hello,
 
-This is my code submission for the NASA Kibo RPC challenge
+This is my code for the NASA Kibo RPC 
 
 The files used for the APK are located in SampleApk
 
